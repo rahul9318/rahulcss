@@ -1,0 +1,262 @@
+.top-container {
+  background-color: #f4f9f9;
+  padding: 20px;
+  font-family: 'Dancing Script', cursive;
+  font-size: 20px;
+}
+
+body {
+  margin: 0;
+  background-color: #f4f9f9;
+  font-size: 25px;
+}
+
+h1 {
+  position: absolute;
+  right: 550px;
+  top: 100px;
+  color: #66BFBF;
+}
+
+hr {
+   border-width: 4px;
+   width:50px;
+
+  position: relative;
+
+  right:330px;
+  border-style: dotted none none;
+  border-color: #a4ebf3;
+  border-bottom: none;
+
+
+  margin: 100px auto;
+}
+
+.sticker {
+  position: absolute;
+  right: 1000px;
+  top: 0;
+  height: 600px;
+}
+
+/*top-martgin*/
+.navigation2 {
+  position: relative;
+  right: 40px;
+  color: black;
+  padding: 8px;
+  font-size: 20px;
+}
+
+.top-margin {
+  margin: 0;
+  background-color: #fb743e;
+  padding: 30px;
+  text-align: right;
+}
+
+.navigation {
+  margin-right: 40px;
+  font-family: 'EB Garamond', serif;
+  font-size: 20px;
+  word-spacing: 30px;
+}
+
+.home {
+  line-height: 100px;
+  position: relative;
+  left: 550px;
+  bottom: 200px;
+  font-size: 50px;
+  font-weight: normal;
+  color: #66BFBF;
+}
+
+/*
+
+.mountains {
+  height: 200px;
+  position: relative;
+  left: 1000px;
+  top: 0;
+}
+*/
+.languages {
+  height: 300px;
+  position: relative;
+  left: 1010px;
+}
+
+.languages2 {
+  height: 200px;
+  position: relative;
+  right: 400px;
+  bottom: 50px;
+}
+
+/*about*/
+.middle-container {
+  position: relative;
+  left: 400px;
+  bottom: 300px;
+  width: 80%;
+  clear: left;
+  font-family: 'Merriweather', serif;
+  font-size: 25px;
+  clear: both;
+}
+
+.p2 {
+  width: 90%;
+}
+
+.hello {
+  font-size: 110px;
+  top: 100px;
+}
+
+/*about*/
+.heading2 {
+  font-size: 50px;
+  font-family: 'Reggae One', cursive;
+  color: #11999E;
+  clear: left;
+}
+
+/*links*/
+a {
+  color: #11999E;
+  text-decoration: none;
+}
+
+a:hover {
+  color: orange;
+  font-size: 30px;
+}
+
+.profile {
+  height: 300px;
+}
+
+/*projects*/
+.projects {
+  position: relative;
+  left: 400px;
+  bottom: 200px;
+  line-height: 50px;
+}
+
+/*footer*/
+.bottom-container {
+  position: relative;
+  background-color: #a4ebf3;
+  padding: 10px;
+}
+
+.copyright {
+  position: relative;
+  left: 550px;
+  bottom: 40px;
+  font-size: 15px;
+  color: white;
+}
+
+/*
+.heading3 {
+  position: relative;
+  ;
+  left: 800px;
+  bottom: 70px;
+  font-size: 40px;
+*/
+.social-media {
+  color: black;
+  word-spacing: 80px;
+  position: relative;
+  left: 500px;
+  bottom: 30px;
+  font-size: 20px;
+  text-decoration: none;
+  padding-left: 30px;
+}
+
+/*skiils*/
+.skills {
+  background-image: url(../images/languages-removebg.png);
+  background-repeat: no-repeat;
+  background-size: 900px;
+  background-position: 200px 200px;
+}
+
+.skills {
+  position: relative;
+  left: 400px;
+  bottom: 200px;
+  font-size: 50px;
+  font-family: 'Reggae One', cursive;
+  color: #11999E;
+  clear: left;
+}
+
+.p4 {
+  height: 200px;
+}
+
+.p3 {
+  line-height: 40px;
+  position: relative;
+  left: 400px;
+  bottom: 40px;
+  left: 20px;
+  color: black;
+  font-family: 'Merriweather', serif;
+  font-size: 25px;
+}
+
+/*contact*/
+.contact {
+  position: relative;
+  left: 450px;
+  bottom: 200px;
+  font-size: 50px;
+  font-family: 'Reggae One', cursive;
+  color: #11999E;
+  clear: left;
+}
+
+.btn {
+  background: #11CDD4;
+  background-image: -webkit-linear-gradient(top, #11CDD4, #11CDD4);
+  background-image: -moz-linear-gradient(top, #11CDD4, #11CDD4);
+  background-image: -ms-linear-gradient(top, #11CDD4, #11CDD4);
+  background-image: -o-linear-gradient(top, #11CDD4, #11CDD4);
+  background-image: -webkit-gradient(to bottom, #11CDD4, #11CDD4);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #FFFFFF;
+  font-family: 'Merriweather', serif;
+  font-size: 28px;
+  font-weight: 100;
+  padding: 29px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  line-height: 5px;
+}
+
+.btn:hover {
+  border: solid #4A33ED 1px;
+  background: #791ED0;
+  background-image: -webkit-linear-gradient(top, #791ED0, #3D94F6);
+  background-image: -moz-linear-gradient(top, #791ED0, #3D94F6);
+  background-image: -ms-linear-gradient(top, #791ED0, #3D94F6);
+  background-image: -o-linear-gradient(top, #791ED0, #3D94F6);
+  background-image: -webkit-gradient(to bottom, #791ED0, #3D94F6);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
